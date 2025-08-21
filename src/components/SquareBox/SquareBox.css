@@ -1,0 +1,9 @@
+.mainDiv{
+	display: grid;
+	grid-template-columns: 130px 130px 130px;
+	gap: 2px;
+}
+
+.changeColor{
+	background-color: green;
+}
